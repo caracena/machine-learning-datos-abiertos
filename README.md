@@ -3,7 +3,7 @@
 Este repositorio detalla los ejemplos prácticos mostrados en la charla 
 "Utilizando técnicas de Machine Learning con datos abiertos". Pueden descargar
 la presentación de la charla en el siguiente 
-[link](https://drive.google.com/file/d/1Q5Q03Kxu7xK5d_2WeRA2YiygTpT9TD92/view?usp=sharing)
+[link](https://drive.google.com/file/d/181xVhp-0elhBphXCg0bNyptORReiUN0F/view?usp=sharing)
 
 ## Caso de Predicción de niveles de pobreza de Costa Rica
 
